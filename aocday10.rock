@@ -42,14 +42,14 @@ Cast your song into the sea
 Rock it into shock
 Listen to your song
 
-Let the end be shock
-Knock the end down
 Let everything be nothing with nobody
+Let the end be shock
+Rock everything into shock
 Downfall taking everything, THE END!
 
 
 
-(These next two lines sere no functional purpose, but the previous line very emphatically said "the end", when it clearly was not.)
+(These next two lines serve no functional purpose, but the previous line very emphatically said "the end", when it clearly was not.)
 The end is lies
 The end is ever receding
 
@@ -62,12 +62,12 @@ Rock everything into your regrets
 
 Let regret be everything
 Until shock is everything
-Put shock at everything into a trap
-Let your mind be a trap without regret
+Put shock at everything into clarity
+Let your mind be clarity without regret
 Put your regrets at your mind into thought
 Build it up
 Put thought into your regrets at your mind
-Let regret be a trap
+Let regret be clarity
 Build everything up
 
 The hypocrite's hallelujahs
@@ -77,3 +77,58 @@ Build it up
 Let Bitter Hallelujah be perspective of your regrets at it
 Whisper Bitter Hallelujah with perspective
 Say nothing
+
+
+(Begin part 2)
+Let everything be nothing with nobody
+Let regret be everything
+Rock regret into wonder
+Until shock is everything
+Put shock at everything into clarity
+Let your mind be clarity without regret
+Memory is commemoration
+If memory is your mind
+Knock everything down
+Rock everything into wonder
+Build everything up
+Rock everything into wonder
+    (End if)
+Build everything up
+Let regret be clarity
+    (End until)
+Knock everything down
+Rock everything into wonder
+
+
+Segmentscore takes lowindex and highindex
+If lowindex is highindex
+Give back 1
+    (End if base case)
+The answer is 0
+Put lowindex into nextindex
+Put shock at lowindex into val
+Build nextindex up
+Put shock at nextindex into nextvalue
+While nextvalue without val is as low as memory
+Let the answer be with segmentscore taking nextindex, highindex
+Build nextindex up
+Put shock at nextindex into nextvalue
+    (End while)
+Give back the answer
+
+Let everything be nothing with nobody
+Build everything up
+Put it into cumulative
+Knock everything down
+While everything is less than wonder
+Put wonder at everything into lowpoint
+Build everything up
+If everything is wonder
+Break it down
+
+Put wonder at everything into highpoint
+Let cumulative be of segmentscore taking lowpoint, highpoint
+Put wonder into something
+
+
+Say cumulative
