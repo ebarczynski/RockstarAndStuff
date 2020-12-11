@@ -92,43 +92,44 @@ Knock everything down
 Rock everything into wonder
 Build everything up
 Rock everything into wonder
-    (End if)
+
 Build everything up
 Let regret be clarity
-    (End until)
+
 Knock everything down
 Rock everything into wonder
 
 
-Segmentscore takes lowindex and highindex
-If lowindex is highindex
-Give back 1
-    (End if base case)
-The answer is 0
-Put lowindex into nextindex
-Put shock at lowindex into val
-Build nextindex up
-Put shock at nextindex into nextvalue
-While nextvalue without val is as low as memory
-Let the answer be with segmentscore taking nextindex, highindex
-Build nextindex up
-Put shock at nextindex into nextvalue
-    (End while)
-Give back the answer
+Life takes fortitude and foolhardiness
+If fortitude is foolhardiness
+Your joy is unpromising
+Give back your joy
+
+Living is aberration
+Put fortitude into endurance
+Put shock at fortitude into valor
+Build endurance up
+Put shock at endurance into bravery
+While bravery without valor is as low as memory
+Let living be with life taking endurance, foolhardiness
+Build endurance up
+Put shock at endurance into bravery
+
+Give back living
 
 Let everything be nothing with nobody
 Build everything up
-Put it into cumulative
+Put it into an illusion
 Knock everything down
 While everything is less than wonder
-Put wonder at everything into lowpoint
+Put wonder at everything into words
 Build everything up
 If everything is wonder
 Break it down
 
-Put wonder at everything into highpoint
-Let cumulative be of segmentscore taking lowpoint, highpoint
+Put wonder at everything into ideas
+Let an illusion be of life taking words, ideas
 Put wonder into something
 
 
-Say cumulative
+Whisper an illusion
